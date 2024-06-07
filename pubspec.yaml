@@ -11,9 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-
-
-  zflutter: any
+  zflutter: ^<null-safe-version>
   bmi_calculator: any
 dev_dependencies:
   flutter_test:

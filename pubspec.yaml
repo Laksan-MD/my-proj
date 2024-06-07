@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  zflutter: ^<null-safe-version>
+
 
 
   zflutter: any

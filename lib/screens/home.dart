@@ -1,12 +1,10 @@
 import 'calculator/calculator_page.dart';
 import 'package:flutter/material.dart';
 
-void main() {
-
-}
+void main() {}
 
 class Home extends StatelessWidget {
-  const Home ({super.key});
+  const Home({super.key});
 
   // This widget is the root of your application.
   @override

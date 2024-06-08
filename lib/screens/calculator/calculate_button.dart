@@ -21,8 +21,7 @@ class CalculateButton extends StatelessWidget {
       ),
       child: TextButton(
         style: ButtonStyle(
-          overlayColor:
-              WidgetStateProperty.all(Colors.white.withOpacity(0.10)),
+          overlayColor: WidgetStateProperty.all(Colors.white.withOpacity(0.10)),
         ),
         onPressed: onTap,
         child: const Text(
